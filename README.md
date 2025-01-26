@@ -73,4 +73,12 @@ The Fare distribution showed significant skewness.
 
 - Embarkation Points: Most passengers embarked from Southampton (S), but passengers from Cherbourg (C) had a slightly higher survival rate.
 
-- Family Influence: Passengers with small family sizes (based on Parch and SibSp) had a better survival chance than those traveling alone or in large families.  
+- Family Influence: Passengers with small family sizes (based on Parch and SibSp) had a better survival chance than those traveling alone or in large families.
+
+## Future Work
+
+- Model Training: Train machine learning models (e.g., Logistic Regression, Random Forest) to predict passenger survival based on the dataset.
+Evaluate model performance using metrics like accuracy and F1-score.
+
+- Deployment: Build a web application or dashboard where users can input passenger details to predict survival probability.
+
