@@ -53,3 +53,24 @@
   C: Cherbourg
   Q: Queenstown
   S: Southampton
+
+
+## EDA on Titanic Dataset
+
+### Tools & Libraries
+- Pandas: Data manipulation and analysis
+- Seaborn & Matplotlib: Data visualization
+
+### Key Insights
+- Survival Rates: Passengers in 1st class had a significantly higher survival rate compared to those in 2nd and 3rd class.
+ Females had a much higher chance of survival compared to males, emphasizing the "women and children first" policy.
+
+- Age Distribution: Younger passengers, especially children, had better survival rates.
+Outliers in Age (e.g., passengers above 65) were identified but didn't significantly impact survival trends.
+
+- Fare Trends: Passengers who paid higher fares were generally in 1st class and had a better survival rate.
+The Fare distribution showed significant skewness.
+
+- Embarkation Points: Most passengers embarked from Southampton (S), but passengers from Cherbourg (C) had a slightly higher survival rate.
+
+- Family Influence: Passengers with small family sizes (based on Parch and SibSp) had a better survival chance than those traveling alone or in large families.  
