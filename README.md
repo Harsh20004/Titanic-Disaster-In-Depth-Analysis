@@ -1,5 +1,13 @@
 # Titanic-Disaster-In-Depth-Analysis
 
+## Project Overview
+### This project focuses on performing an Exploratory Data Analysis (EDA) on the Titanic dataset to uncover key insights and trends. The main objectives include:
+
+ - Understanding the data structure and key features.
+ - Visualizing the distribution of numerical and categorical variables.
+ - Analyzing passenger demographics and their impact on survival rates.
+ - Identifying outliers and skewness.
+
 
 ## Titanic Dataset Column Descriptions
 
